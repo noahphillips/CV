@@ -45,5 +45,5 @@ The client in this case requested a WordPress site for easy and clear content ma
 * [wooqer.com](http://www.wooqer.com/)
 * [juniper.net](http://www.juniper.net)
 * [rewrite.ca.com](http://rewrite.ca.com/us.html) (junior/supportive role not mentioned above)
-* [http://www.ca.com](http://www.ca.com/us/caworld.aspx) (this code base was totally butchered by CA developers after hand-off and thus not mentioned above)
+* [ca.com](http://www.ca.com/us/caworld.aspx) (this code base was totally butchered by CA developers after hand-off and thus not mentioned above)
 * [work in progress](https://github.com/noahphillips)
