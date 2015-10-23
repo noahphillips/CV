@@ -6,7 +6,7 @@
 
 ##Profile
 
-Though I've received undergraduate and master's degrees in music and working as a professional frontend developer for some 7 years.  The logical and creative problem solving skills involved in writing clean, elegant, and clear code are virtually identical to those of composing and playing written music.  I believe the similarities between music and code are why I was initially drawn to web development and desire to continue exploring new ideas as the web evolves before our very eyes.  In addition I'm quite conversent in many topics and quite jovial while drunk which makes me great at parties and so fourth.
+Though I've received undergraduate and master's degrees in music and working as a professional fronted developer for some 7 years.  The logical and creative problem solving skills involved in writing clean, elegant, and clear code are virtually identical to those of composing and playing written music.  I believe the similarities between music and code are why I was initially drawn to web development and desire to continue exploring new ideas as the web evolves before our very eyes.  In addition I'm quite conversant in many topics and quite jovial while drunk which makes me great at parties and so fourth.
 
 ##Recent Works
 
@@ -18,7 +18,7 @@ Though I've received undergraduate and master's degrees in music and working as 
 * Lead developer during QA as the code base stabilized and matured
 * Stack: git, node/npm, grunt, sass, js, [zetzer html templating](https://github.com/brainshave/zetzer), [handlebars](https://github.com/wycats/handlebars.js)
 
-The first iteration of the site was built using [grunt](https://github.com/gruntjs/grunt) as our task runner for compiling the js modules, sass modules, and html templates.  We’ve since moved the codebase to a framework called [Fabricator](https://github.com/fbrctr/fabricator) which uses HandleBars for html templating and [glup](https://github.com/gulpjs/gulp) for taks running and compilation.  [Fabricator](https://github.com/fbrctr/fabricator) includes an auto generated BootStrap like style guide enableing much cleaner and clearer documentation for Juniper's dev team.
+The first iteration of the site was built using [grunt](https://github.com/gruntjs/grunt) as our task runner for compiling the js modules, sass modules, and html templates.  We’ve since moved the codebase to a framework called [Fabricator](https://github.com/fbrctr/fabricator) which uses HandleBars for html templating and [glup](https://github.com/gulpjs/gulp) for taks running and compilation.  [Fabricator](https://github.com/fbrctr/fabricator) includes an auto generated BootStrap like style guide enabling much cleaner and clearer documentation for Juniper's dev team.
 
 ####Cleversafe
 
@@ -35,3 +35,15 @@ Here we again chose a node and npm development environment in which to build our
 
 * Worked directly with the designer on a 'mobile first' design and implementation
 * Stack: git, node/npm, wordpress (PHP, custom fiels, et cetera) sass, js.
+
+The client in this case requested a WordPress site for easy and clear content management.  We built a custom theme from the ground up complete with custom fields and php functionality.  As a developer WordPress is a total drag but for clients it's basically a god's send.
+
+
+####Links
+
+* [cleversafe.com](https://www.cleversafe.com/)
+* [wooqer.com](http://www.wooqer.com/)
+* [juniper.net](http://www.juniper.net)
+* [rewrite.ca.com](http://rewrite.ca.com/us.html) (junior/supportive role not mentioned above)
+* [http://www.ca.com](http://www.ca.com/us/caworld.aspx) (this code base was totally butchered by CA developers after hand-off and thus not mentioned above)
+* [work in progress](https://github.com/noahphillips)
