@@ -3,7 +3,6 @@
 * Represented by Creative Circle
 * 415.615.9999
 
-
 ##Profile
 
 Though I received undergraduate and master's degrees in music, I have worked as a professional fronted developer for some 7 years.  The logical and creative problem solving skills involved in writing clean, elegant and clear code are virtually identical to those of composing and playing written music.  I believe the similarities between music and code are why I was initially drawn to web development and desire to continue exploring new ideas as the web evolves before our very eyes.  In addition, I'm very conversant in many topics and quite jovial while drunk which makes me great at parties and so forth.
