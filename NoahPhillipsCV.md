@@ -1,8 +1,6 @@
 #Noah Phillips
 
-* Represented by Creative Circle
-* 415.615.9999
-
+* (323)899-5350
 
 ##Profile
 
