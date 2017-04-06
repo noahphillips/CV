@@ -8,17 +8,17 @@ Though I received undergraduate and master's degrees in music, I have worked as 
 
 ## Recent Works
 
-#### Juniper Networks
+#### John McNeil Studio Limited Edition
 
-*front-end developer on [juniper.net](http://www.juniper.net) for [JohnMcneil Studio](http://www.johnmcneilstudio.com)*
+*front-end developer on [jmslimitededition.com](https://www.jmslimitededition.com/) for [JohnMcneil Studio](http://www.johnmcneilstudio.com)*
 
-* Responsible for building responsive HTML components from PSD files for deadline-based hand-off to Juniper’s dev team.
-* Lead developer during QA as the code base stabilized and matured
-* Stack: git, node/npm, grunt, sass, js, [zetzer html templating](https://github.com/brainshave/zetzer), [handlebars](https://github.com/wycats/handlebars.js)
+* Objective: Convert a WordPress site into a flat file CMS site using the [Grav](https://getgrav.org/) CMS.  Refactor all the code in the process.
+* Front End lead responsible for mark-up, layout, interactive implementation, build tools, task runners and customized CMS
+* Stack: git, node/npm, gulp and laravel mix, sass, js, [twig html templates](http://twig.sensiolabs.org/), yaml for hooking up the CMS
 
 The first iteration of the site was built using [grunt](https://github.com/gruntjs/grunt) as our task runner for compiling the js modules, sass modules, and html templates.  We’ve since moved the codebase to a framework called [Fabricator](https://github.com/fbrctr/fabricator) which uses HandleBars for html templating and [glup](https://github.com/gulpjs/gulp) for task running and compilation.  [Fabricator](https://github.com/fbrctr/fabricator) includes an auto generated BootStrap-like style guide enabling much cleaner and clearer documentation for Juniper's dev team.
 
-#### Cleversafe
+#### Caledonia Spirits
 
 *front-end developer on [cleversafe.com](https://www.cleversafe.com/) for [JohnMcneil Studio](http://www.johnmcneilstudio.com)*
 
@@ -27,7 +27,7 @@ The first iteration of the site was built using [grunt](https://github.com/grunt
 
 Here again we chose a node and npm development environment in which to build our frame work.  After experiencing a host of drawbacks with [grunt](https://github.com/gruntjs/grunt) in previous projects, we decided to use [broccoli](https://github.com/broccolijs/broccoli) as our main task runner.  Using broccoli also allowed us to deploy directly to [Heroku](https://www.heroku.com/) for our staging and QA sites without the need to track the output folder with git.
 
-#### Wooqer
+#### Trifecta Nutrition
 
 *front-end developer on [wooqer.com](http://www.wooqer.com/) for [JohnMcneil Studio](http://www.johnmcneilstudio.com)*
 
@@ -39,7 +39,7 @@ The client in this case requested a WordPress site for easy and clear content ma
 
 #### Links
 
-* [JMS Limited Edition](https://www.cleversafe.com/) (Project Lead)
+* [JMS Limited Edition](https://www.jmslimitededition.com/) (Project Lead)
 * [Caledonia Spirits](http://caledoniaspirits.com/) (Presentaion Layer Lead)
 * [Trifecta Nutrition](https://www.trifectanutrition.com/) (Lead CSS and Mark-Up dev)
 * [works in progress](https://github.com/noahphillips)
