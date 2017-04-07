@@ -35,7 +35,7 @@ We made the decision to use [Timber](https://github.com/timber/timber) for the m
 * Refactored layout and mark-up for an eCommerce WordPres site built with the [Avada WordPress Theme](https://avada.theme-fusion.com/)
 * Stack: git, node/npm, wordpress style php (custom fiels, et al...) css, jQuery.
 
-The client in this case requested a WordPress site for easy and clear content management.  We built a custom theme from the ground up, complete with custom fields and php functionality.  As a developer, WordPress is a total drag, but for clients it's basically a godsend.
+[Trifecta Nutrition](https://www.trifectanutrition.com/) is a very complicated eCommerce site built with the Avada Theme on the front-end and WooCommerce as the eCommerce layer.  I was primarily responsible for interfacing with the design team to make sure all of the designs fit nicely into Avada’s components.  I was then charged with the very tedious task of writing all the custom CSS which Avada does not make easy.  We learned a lot from the pain points and challenges of this project.
 
 
 #### Links
