@@ -3,46 +3,44 @@
 * Represented by Creative Circle
 * 415.615.9999
 
-##Profile
+## Profile
 
-Though I received undergraduate and master's degrees in music, I have worked as a professional fronted developer for some 7 years.  The logical and creative problem solving skills involved in writing clean, elegant and clear code are virtually identical to those of composing and playing written music.  I believe the similarities between music and code are why I was initially drawn to web development and desire to continue exploring new ideas as the web evolves before our very eyes.  In addition, I'm very conversant in many topics and quite jovial while drunk which makes me great at parties and so forth.
+Though I received undergraduate and master's degrees in music, I have worked as a professional front-end developer for some 7 years.  The logical and creative problem solving skills involved in writing clean, elegant and clear code are virtually identical to those of composing and playing written music.  I believe the similarities between music and code are why I was initially drawn to web development and desire to continue exploring new ideas as the web evolves before our very eyes.  In addition, I'm very conversant in many topics and quite jovial while drunk which makes me great at parties and so forth.
 
-##Recent Works
+## Recent Works
 
-####Juniper Networks
+#### John McNeil Studio Limited Edition
 
-*front-end developer on [juniper.net](http://www.juniper.net) for [JohnMcneil Studio](http://www.johnmcneilstudio.com)*
+*front and back-end developer on [limited edition staging](http://le-grav-test.jmsdevelop.com/) for [John Mcneil Studio](http://www.johnmcneilstudio.com)*
 
-* Responsible for building responsive HTML components from PSD files for deadline-based hand-off to Juniper’s dev team.
-* Lead developer during QA as the code base stabilized and matured
-* Stack: git, node/npm, grunt, sass, js, [zetzer html templating](https://github.com/brainshave/zetzer), [handlebars](https://github.com/wycats/handlebars.js)
+* Front-End lead responsible for mark-up, layout, interactive implementation, build tools, task runners and customized CMS
+* Stack: git, node/npm, gulp and [laravel mix](https://github.com/JeffreyWay/laravel-mix), sass, js, [twig html templates](http://twig.sensiolabs.org/), yaml for hooking up the CMS, and working with the SoundCloud SDK and API for use in custom SoundCloud players
 
-The first iteration of the site was built using [grunt](https://github.com/gruntjs/grunt) as our task runner for compiling the js modules, sass modules, and html templates.  We’ve since moved the codebase to a framework called [Fabricator](https://github.com/fbrctr/fabricator) which uses HandleBars for html templating and [glup](https://github.com/gulpjs/gulp) for task running and compilation.  [Fabricator](https://github.com/fbrctr/fabricator) includes an auto generated BootStrap-like style guide enabling much cleaner and clearer documentation for Juniper's dev team.
+This project's objective was to convert a WordPress site into a flat file CMS site using the [Grav](https://getgrav.org/) CMS.  In addition we found that a major cleaning and code refactor was critical to the new build. The first iteration of the site was essentially a custom WordPress theme which primarily relied on advanced custom fields to manage the custom layout and content.  For a number of reasons the site kept crashing and in general was found to be, shall we say, not so robust.  We decided to use the [Grav](https://getgrav.org/) CMS which does not rely on a MySQL DataBase.  The so called ‘flat file’ system turned out to be much faster in the browser and magnitudes easier to develop, maintain and even scale up than the WP version.
 
-####Cleversafe
+#### Caledonia Spirits
 
-*front-end developer on [cleversafe.com](https://www.cleversafe.com/) for [JohnMcneil Studio](http://www.johnmcneilstudio.com)*
+*front-end developer on [Caledonia Spirits](http://caledoniaspirits.com/) for [John Mcneil Studio](http://www.johnmcneilstudio.com)*
 
-* Responsible for building responsive HTML components from PSD files for deadline-based hand-off to Cleversafe's dev team.
-* Stack: git, node/npm, [broccoli](https://github.com/broccolijs/broccoli), sass, js, zetzer [html templating](https://github.com/brainshave/zetzer)
+* Responsible for building responsive HTML components using [Timber templates](https://github.com/timber/timber) for a custom WordPress site.
+* Developed CSS animations that were beyond the original designs
+* Stack: git, node/npm, gulp and [laravel elixir](https://github.com/laravel/elixir), sass, js, [Timber templates](https://github.com/timber/timber)
 
-Here again we chose a node and npm development environment in which to build our frame work.  After experiencing a host of drawbacks with [grunt](https://github.com/gruntjs/grunt) in previous projects, we decided to use [broccoli](https://github.com/broccolijs/broccoli) as our main task runner.  Using broccoli also allowed us to deploy directly to [Heroku](https://www.heroku.com/) for our staging and QA sites without the need to track the output folder with git.
+We made the decision to use [Timber](https://github.com/timber/timber) for the mark-up templates because it’s a fully realized HTML templating technology built on [twig](http://twig.sensiolabs.org/) and we were all very familiar with its many features.  This decision turned out to greatly speed and clean up our entire process ergo allowing us time to focus on all front-end bells and whistles the original designs left out.  The end result was a much richer interactive experience.
 
-####Wooqer
+#### Trifecta Nutrition
 
-*front-end developer on [wooqer.com](http://www.wooqer.com/) for [JohnMcneil Studio](http://www.johnmcneilstudio.com)*
+*front-end developer on [Trifecta Nutrition](https://www.trifectanutrition.com/) eCommerce site for [JohnMcneil Studio](http://www.johnmcneilstudio.com)*
 
-* Worked directly with the designer on a 'mobile first' design and implementation
-* Stack: git, node/npm, wordpress (PHP, custom fiels, et cetera) sass, js.
+* Refactored layout and mark-up for an eCommerce WordPres site built with the [Avada WordPress Theme](https://avada.theme-fusion.com/)
+* Stack: git, node/npm, wordpress style php (custom fiels, et al...) css, jQuery.
 
-The client in this case requested a WordPress site for easy and clear content management.  We built a custom theme from the ground up, complete with custom fields and php functionality.  As a developer, WordPress is a total drag, but for clients it's basically a godsend.
+[Trifecta Nutrition](https://www.trifectanutrition.com/) is a very complicated eCommerce site built with the Avada Theme on the front-end and WooCommerce as the eCommerce layer.  I was primarily responsible for interfacing with the design team to make sure all of the designs fit nicely into Avada’s components.  I was then charged with the very tedious task of writing all the custom CSS which Avada does not make easy.  We learned a lot from the pain points and challenges of this project.
 
 
-####Links
+#### Links
 
-* [cleversafe.com](https://www.cleversafe.com/)
-* [wooqer.com](http://www.wooqer.com/)
-* [juniper.net](http://www.juniper.net)
-* [rewrite.ca.com](http://rewrite.ca.com/us.html) (junior/supportive role not mentioned above)
-* [ca.com](http://www.ca.com/us/caworld.aspx) (this code base was totally butchered by CA developers after hand-off thus not mentioned above)
+* [limited edition staging](http://le-grav-test.jmsdevelop.com/)
+* [Caledonia Spirits](http://caledoniaspirits.com/)
+* [Trifecta Nutrition](https://www.trifectanutrition.com/)
 * [works in progress](https://github.com/noahphillips)
