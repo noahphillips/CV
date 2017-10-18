@@ -5,18 +5,27 @@
 
 ## Profile
 
-Though I received undergraduate and master's degrees in music, I have worked as a professional front-end developer for some 7 years.  The logical and creative problem solving skills involved in writing clean, elegant and clear code are virtually identical to those of composing and playing written music.  I believe the similarities between music and code are why I was initially drawn to web development and desire to continue exploring new ideas as the web evolves before our very eyes.  In addition, I'm very conversant in many topics and quite jovial while drunk which makes me great at parties and so forth.
+Though I received undergraduate and master's degrees in music, I have worked as a professional front-end developer for some 8 years.  The logical and creative problem solving skills involved in writing clean, elegant and clear code are virtually identical to those of composing and playing written music.  I believe the similarities between music and code are why I was initially drawn to web development. I also quite enjoy exploring new ideas as web technology evolves before our very eyes.  In addition, I'm very conversant in many topics, sensitive the working styles of my colleagues, and quite concise.
 
 ## Recent Works
 
-#### John McNeil Studio Limited Edition
+#### Maker Share Learning Center
 
-*front and back-end developer on [limited edition staging](http://le-grav-test.jmsdevelop.com/) for [John Mcneil Studio](http://www.johnmcneilstudio.com)*
+*front-end developer [maker share learning center](https://makershare.com/learning/) for [Make&#58;](https://makermedia.com/)*
 
-* Front-End lead responsible for mark-up, layout, interactive implementation, build tools, task runners and customized CMS
-* Stack: git, node/npm, gulp and [laravel mix](https://github.com/JeffreyWay/laravel-mix), sass, js, [twig html templates](http://twig.sensiolabs.org/), yaml for hooking up the CMS, and working with the SoundCloud SDK and API for use in custom SoundCloud players
+* Front-End lead responsible for mark-up, layout, responsive design, user interactions and content data structure
+* Stack: git, node/npm, [laravel mix](https://github.com/JeffreyWay/laravel-mix), sass, ES6, [jekyll](https://jekyllrb.com/), yaml.
 
-This project's objective was to convert a WordPress site into a flat file CMS site using the [Grav](https://getgrav.org/) CMS.  In addition we found that a major cleaning and code refactor was critical to the new build. The first iteration of the site was essentially a custom WordPress theme which primarily relied on advanced custom fields to manage the custom layout and content.  For a number of reasons the site kept crashing and in general was found to be, shall we say, not so robust.  We decided to use the [Grav](https://getgrav.org/) CMS which does not rely on a MySQL DataBase.  The so called ‘flat file’ system turned out to be much faster in the browser and magnitudes easier to develop, maintain and even scale up than the WP version.
+The goal was to essentially convert lessons on how to hack hardware from a book into an interactive website.  There was talk of eventually integrating it into the [makershare.com](https://makershare.com) build.  However full integration looked to be much more difficult than originally scoped.  To this end I decided to use Jekyll for HTML templating and YAML for the content data structure.  I'd also planned on using [Forestry](https://forestry.io/) as a Content Management System.  Sadly the project ran out of funding for this piece.
+
+#### CA Technologies Modern Software Factory
+
+*front-end developer [ca modern-software-factory](https://www.ca.com/us/modern-software-factory.html) for [John Mcneil Studio](http://www.johnmcneilstudio.com)*
+
+* Front-End developer responsible for mark-up, layout, responsive design, user interactions and content data structure
+* Stack: git, node/npm, [laravel mix](https://github.com/JeffreyWay/laravel-mix), sass, ES6, [jekyll](https://jekyllrb.com/), yaml.
+
+We were tasked with creating a site that showcased the many facets of CA Technology's software division while also generating demand for their various products.  In addition we had to implement filtering and search on a flat-file data structure.  We ended up going with [lunrjs.com](https://lunrjs.com/) for all the filtering and searching.  In addition we had to help the CA dev team implement [Marketo](https://www.marketo.com/) for all of their lead gathering, et cetera.  The 'card' design work quite nicely as a responsive layout and for the requested image sliders.
 
 #### Caledonia Spirits
 
@@ -28,19 +37,9 @@ This project's objective was to convert a WordPress site into a flat file CMS si
 
 We made the decision to use [Timber](https://github.com/timber/timber) for the mark-up templates because it’s a fully realized HTML templating technology built on [twig](http://twig.sensiolabs.org/) and we were all very familiar with its many features.  This decision turned out to greatly speed and clean up our entire process ergo allowing us time to focus on all front-end bells and whistles the original designs left out.  The end result was a much richer interactive experience.
 
-#### Trifecta Nutrition
-
-*front-end developer on [Trifecta Nutrition](https://www.trifectanutrition.com/) eCommerce site for [JohnMcneil Studio](http://www.johnmcneilstudio.com)*
-
-* Refactored layout and mark-up for an eCommerce WordPres site built with the [Avada WordPress Theme](https://avada.theme-fusion.com/)
-* Stack: git, node/npm, wordpress style php (custom fiels, et al...) css, jQuery.
-
-[Trifecta Nutrition](https://www.trifectanutrition.com/) is a very complicated eCommerce site built with the Avada Theme on the front-end and WooCommerce as the eCommerce layer.  I was primarily responsible for interfacing with the design team to make sure all of the designs fit nicely into Avada’s components.  I was then charged with the very tedious task of writing all the custom CSS which Avada does not make easy.  We learned a lot from the pain points and challenges of this project.
-
 
 #### Links
 
-* [limited edition staging](http://le-grav-test.jmsdevelop.com/)
+* [maker share learning center](https://makershare.com/learning/)
+* [ca modern-software-factory](https://www.ca.com/us/modern-software-factory.html)
 * [Caledonia Spirits](http://caledoniaspirits.com/)
-* [Trifecta Nutrition](https://www.trifectanutrition.com/)
-* [works in progress](https://github.com/noahphillips)
