@@ -42,4 +42,4 @@ We made the decision to use [Timber](https://github.com/timber/timber) for the m
 
 * [maker share learning center](https://makershare.com/learning/)
 * [ca modern-software-factory](https://www.ca.com/us/modern-software-factory.html)
-* [Caledonia Spirits](http://caledoniaspirits.com/)
+* [caledonia spirits](http://caledoniaspirits.com/)
