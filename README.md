@@ -1,7 +1,7 @@
 # Noah Phillips
 
-* (323)899-5350
-* `n.phillips52 at yahoo.com`
+* Represented by Creative Circle
+* 415.615.9999
 
 ## Profile
 
@@ -40,6 +40,6 @@ We made the decision to use [Timber](https://github.com/timber/timber) for the m
 
 #### Links
 
-* [maker share learning center](https://makershare.com/learning/)
-* [ca modern-software-factory](https://www.ca.com/us/modern-software-factory.html)
-* [caledonia spirits](http://caledoniaspirits.com/)
+* https://makershare.com/learning/
+* https://www.ca.com/us/modern-software-factory.html
+* http://caledoniaspirits.com/
