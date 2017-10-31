@@ -43,3 +43,9 @@ We made the decision to use [Timber](https://github.com/timber/timber) for the m
 * [maker share learning center](https://makershare.com/learning/)
 * [ca modern-software-factory](https://www.ca.com/us/modern-software-factory.html)
 * [caledonia spirits](http://caledoniaspirits.com/)
+
+#### Work Experience
+
+* Snapfish/HP 2008 - 2012
+* John McNeil Studio 2014 - 2017
+* Frelancing on and off from 2012 - present
