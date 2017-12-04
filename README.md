@@ -3,9 +3,7 @@
 * (323)899-5350
 * `n.phillips52 at yahoo.com`
 
-## Profile
-
-Though I received undergraduate and master's degrees in music, I have worked as a professional front-end developer for some 8 years.  The logical and creative problem solving skills involved in writing clean, elegant and clear code are virtually identical to those of composing and playing written music.  I believe the similarities between music and code are why I was initially drawn to web development. I also quite enjoy exploring new ideas as web technology evolves before our very eyes.  In addition, I'm very conversant in many topics, sensitive the working styles of my colleagues, and quite concise.
+Front-End developer with a background in building javascript and php based web apps for design agencies, publishers, small companies, and multinational corporations. 
 
 ## Recent Works
 
